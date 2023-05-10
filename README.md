@@ -19,10 +19,11 @@ This is not about website content or UI.
 - Provide and document a mechanism for scaling the service and delivering the application to a larger audience
 - Describe a possible solution for CI and/or CI/CD in order to release a new version of the application to production without any downtime
 - Create an endpoint to handle an healthcheck, and describe what kind of tools is better to use to monitor the health status.
+- Create a strategy to deploy the storage/media directory keeping in mind that files can be added by the application (see api/generate-image endpoint).
 
 
 ## General guidance
 
 - We recommend using this repository as a starting point, you can clone it and add your code/docs to that repository
 - Please do no open pull request with your challenge against this repository
-- Submission of the challenge can be done either via your own public repository or zip file containing .git folder-
+- Submission of the challenge can be done either via your own public repository or zip file containing .git folder.
