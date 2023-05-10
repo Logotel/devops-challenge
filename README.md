@@ -18,7 +18,7 @@ This is not about website content or UI.
 - Provide basic architecture diagrams and documentation on how to initialise the infrastructure along with any other documentation you think is appropriate
 - Provide and document a mechanism for scaling the service and delivering the application to a larger audience
 - Describe a possible solution for CI and/or CI/CD in order to release a new version of the application to production without any downtime
-- Create an endpoint to handle an healthcheck to handle possible downtime
+- Create an endpoint to handle an healthcheck, and describe what kind of tools is better to use to monitor the health status.
 
 
 ## General guidance
